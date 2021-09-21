@@ -17,7 +17,7 @@ console.log(findSum(5));//15
 function area(width, height) {
     return width * height;  
   }
-  onsole.log(area(5, 4));*/
+  onsole.log(area(5, 4));
 
 
 
@@ -46,3 +46,32 @@ function area(width, height) {
   console.log(helloSomeone("ab"));
   console.log(area(2,3));
   console.log(evenNum(23));
+
+ /* const random = (param, param, ...) => {
+    statement 1
+    statement 2
+    statement 3
+    return value;
+}
+//เรื่อง function
+function helloSomeone(name) {
+    let greeting = `Hello`;
+    return `${greeting} ${name}`;
+  }
+  //greeting and num are local variables, you can refer only inside function
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
